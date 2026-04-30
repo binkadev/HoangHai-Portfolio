@@ -1,4 +1,0 @@
-v23 full mirror logo shine
-- Added a full-logo mirror cover layer above the approved v18/v22 logo image.
-- Replaced the thin blade-only highlight with a wide glass sweep clipped to the visible logo image area.
-- Increased static glossy reflection, brightness, and hover replay speed so the logo feels like a mirror surface.

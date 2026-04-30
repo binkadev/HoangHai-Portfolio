@@ -1,7 +1,0 @@
-HoangHai-Portfolio v26
-
-- Fixed logo effect visibility on light background.
-- Added a visible auto-running full-logo shine sweep.
-- Added a Vue-assisted hover replay so hover shine reliably runs every time.
-- Made the entire logo block look like a premium glass/mirror plate at rest.
-- Added subtle idle reflection drift and small gold glints for a more noticeable effect.

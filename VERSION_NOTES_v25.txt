@@ -1,7 +1,0 @@
-HoangHai-Portfolio v25
-
-- Kept the approved premium THH logo.
-- Added a visible frosted mirror/glass plate behind the transparent logo.
-- Added permanent full-surface reflections, so the logo looks glossy even when idle.
-- Strengthened the animated full-width mirror shine sweep across the whole logo block.
-- Improved hover state with cleaner glow and stronger glass surface feeling.

@@ -1,6 +1,0 @@
-HoangHai-Portfolio v27
-
-- Rebuilt the logo shine using Vue requestAnimationFrame instead of relying only on CSS keyframes.
-- Auto shine movement is now controlled by inline styles, so the sweep should be visible continuously.
-- Hover shine is replayed by JavaScript on mouse enter/focus, making hover behavior much more reliable.
-- Increased contrast, width, gold glow, and visible glass reflections on the logo block.
