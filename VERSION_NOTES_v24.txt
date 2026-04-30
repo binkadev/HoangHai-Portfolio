@@ -1,0 +1,7 @@
+HoangHai-Portfolio v24
+
+- Replaced the project logo with the newly approved premium THH logo.
+- Processed the logo as a transparent-background asset.
+- Removed the previous white logo panel look by relying on the transparent PNG.
+- Added a stronger full-logo mirror/glass shine overlay in CSS.
+- Kept the logo compact for the header and preserved the existing project structure.

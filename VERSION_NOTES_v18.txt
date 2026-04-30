@@ -1,0 +1,5 @@
+V18 safe build
+- Replaced header logo with the verified tight crop from the approved THH monogram.
+- Kept TRAN HOANG HAI / PORTFOLIO inside the logo asset and made it easier to see.
+- Added a cleaner glass-polish shine animation that auto-runs and becomes more noticeable on hover.
+- Removed the rough-looking oversized card feel by using the tight logo crop as the actual asset.

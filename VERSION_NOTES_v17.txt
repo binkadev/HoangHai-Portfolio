@@ -1,0 +1,3 @@
+HoangHai Portfolio v17 fresh download
+- Uses the framed THH monogram logo selected by the user as the main logo image.
+- Keeps the premium mirror/glass sweep animation on hover and timed auto animation.

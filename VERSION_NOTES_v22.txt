@@ -1,0 +1,10 @@
+HoangHai-Portfolio v22
+
+Based directly on the user-uploaded v18 ZIP.
+
+Changes:
+- Kept the v18 logo asset and layout intact.
+- Reworked the logo shine CSS so the glass effect sweeps across the entire logo block.
+- Increased shine brightness, width, travel distance, and soft glow.
+- Added hover behavior that replays the full-logo shine at a premium, moderate speed.
+- Added ZIP integrity verification after packaging.
